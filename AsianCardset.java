@@ -1,3 +1,4 @@
 public class AsianCardset {
-    //안녕하세용
+    public static void main(String[] args) {
+        system.out.println("안녕하세요");
 }
